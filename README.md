@@ -27,7 +27,6 @@ The purpose of this analysis is to develop a deep learning model using TensorFlo
 The deep learning model achieved an accuracy of approximately 72.48%, which falls short of the target performance threshold. Despite my efforts to optimize the model, it appears that the dataset may not contain enough discernible patterns for the neural network to learn effectively. 
 
 ## Recommendation:
-Considering the limitations of the neural network model, an alternative approach using ensemble learning techniques, such as Random Forest or Gradient Boosting, could potentially yield better results. Ensemble methods combine multiple models to improve predictive performance and are less susceptible to overfitting. Additionally, incorporating feature engineering techniques and exploring more sophisticated preprocessing methods may enhance the model's ability to capture relevant information from the data. Therefore, I recommend exploring ensemble learning algorithms as a complementary approach to address the classification problem at hand.
-
+Considering the limitations of the neural network model, an alternative approach using ensemble learning techniques, such as Random Forest or Gradient Boosting, could potentially yield better results. Ensemble methods combine multiple models to improve predictive performance and are less susceptible to overfitting. Additionally, incorporating feature engineering techniques and exploring more sophisticated preprocessing methods may enhance the model's ability to capture relevant information from the data. 
 # References
 IRS. Tax Exempt Organization Search Bulk Data Downloads. https://www.irs.gov/
